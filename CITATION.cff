@@ -9,7 +9,7 @@ authors:
     family-names: Jones
     email: daniel@advancedinvasives.com
     affiliation: Advanced Invasives Ltd
-  - given-names: Lois
+  - given-names: Lois E.
     family-names: Child
     affiliation: Advanced Invasives Ltd
   - given-names: John P.
@@ -33,6 +33,7 @@ keywords:
   - biosecurity
   - invasion history
 license: CC-BY-ND-4.0
+doi: 10.5281/zenodo.22927471
 version: '2026-09-23'
 date-released: '2026-09-23'
 url: 'https://www.advancedinvasives.com'
@@ -43,7 +44,7 @@ preferred-citation:
     - given-names: Daniel
       family-names: Jones
       affiliation: Advanced Invasives Ltd
-    - given-names: Lois
+    - given-names: Lois E.
       family-names: Child
       affiliation: Advanced Invasives Ltd
     - given-names: John P.
@@ -51,6 +52,7 @@ preferred-citation:
       affiliation: Advanced Invasives Ltd
   institution:
     name: Advanced Invasives Ltd
+  doi: 10.5281/zenodo.22927471
   year: 2026
   month: 9
   url: 'https://www.advancedinvasives.com'

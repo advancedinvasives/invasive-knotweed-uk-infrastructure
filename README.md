@@ -4,6 +4,8 @@
 
 Dr Daniel Jones, Dr Lois Child and Dr John Bailey · Issued 23 September 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22927471.svg)](https://doi.org/10.5281/zenodo.22927471)
+
 [**Read the statement (PDF)**](invasive-knotweed-uk-infrastructure.pdf)
 
 ---
@@ -102,7 +104,9 @@ This statement rests heavily on Ann Conolly's 1977 paper in *Watsonia*, the foun
 
 ## Citing this statement
 
-> Jones D, Child L, Bailey JP (2026). *Invasive Knotweed Spread Within UK Infrastructure*. Corporate Information Statement. Advanced Invasives Ltd.
+> Jones D, Child LE, Bailey JP (2026). *Invasive Knotweed Spread Within UK Infrastructure*. Corporate Information Statement. Advanced Invasives Ltd. https://doi.org/10.5281/zenodo.22927471
+
+That DOI resolves to the current issue of the statement, whichever it is. To cite the exact copy you read, use the DOI of that dated version, which is shown on its own Zenodo record; the September 2026 issue is [10.5281/zenodo.22927472](https://doi.org/10.5281/zenodo.22927472).
 
 A machine-readable citation is in [`CITATION.cff`](CITATION.cff), which GitHub renders as a "Cite this repository" button.
 
